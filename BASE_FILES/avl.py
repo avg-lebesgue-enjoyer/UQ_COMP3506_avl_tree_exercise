@@ -11,7 +11,7 @@ from typing import Any
 
 
 
-## SECTION: Interface
+## SECTION: Instructions
 """
 [1.] Carefully read all the code you have been provided.
 Ensure that you understand what the provided code *does*.
