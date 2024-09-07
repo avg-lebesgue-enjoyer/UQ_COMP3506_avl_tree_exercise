@@ -1,2 +1,2 @@
 # UQ_COMP3506_avl_tree_exercise
-have
+Download the stuff in `/BASE_FILES` pls
